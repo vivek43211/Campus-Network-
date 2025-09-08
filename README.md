@@ -1,4 +1,4 @@
-# University Campus Network – Project #4
+# University Campus Network 
 
 ## 📌 Project Overview
 This project simulates the **University Network Infrastructure** using **Cisco Packet Tracer**. Albion University has **two campuses** located 20 miles apart:  
