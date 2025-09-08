@@ -131,11 +131,9 @@ This ensures **mobility and flexible network access** for staff and students.
 
 ---
 
-
 ## 🗺️ Network Topology
 
-[![Campus Network Topology](./Campus netwrok.png)](https://github.com/vivek43211/Campus-Network-/blob/eb31a86c4b13a390c55b4a9e8b96f8db4e482229/Campus%20netwrok.png)
-
+![Albion University Network Topology](./Campus%20netwrok.png)
 ---
 
 ## 🚀 Conclusion
