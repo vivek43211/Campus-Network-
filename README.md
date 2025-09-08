@@ -1,7 +1,7 @@
-# Albion University Campus Network – Project #4
+# University Campus Network – Project #4
 
 ## 📌 Project Overview
-This project simulates the **Albion University Network Infrastructure** using **Cisco Packet Tracer**. Albion University has **two campuses** located 20 miles apart:  
+This project simulates the **University Network Infrastructure** using **Cisco Packet Tracer**. Albion University has **two campuses** located 20 miles apart:  
 - **Main Campus** – Hosts Administrative departments, Faculties (Business, Engineering/Computing, Art & Design), IT Department, and Student Labs.  
 - **Branch Campus(Small Campus)** – Hosts the Faculty of Health & Sciences with separate networks for staff and students.  
 
@@ -133,7 +133,7 @@ This ensures **mobility and flexible network access** for staff and students.
 
 ## 🗺️ Network Topology
 
-![Albion University Network Topology](./Campus%20netwrok.png)
+![ University Network Topology](./Campus%20netwrok.png)
 ---
 
 ## 🚀 Conclusion
